@@ -1,0 +1,181 @@
+#permalink-updator #plugin-name-heading .author-link{color:#959888;font-size:60%;text-decoration:none}
+#permalink-updator #permalink-updator-tab-nav .section_upgrade,#permalink-updator #permalink-updator-tab-nav .section_support{background:#111;border-color:#444;color:#fff}
+#permalink-updator h4{font-size:20px;margin-bottom:10px}
+#permalink-updator h5{font-size:18px;margin-bottom:10px}
+#permalink-updator .small{display:block;font-weight:400;color:#789;font-size:80%}
+#permalink-updator .mute{color:#789}
+#permalink-updator .settings-select{min-width:200px}
+#permalink-updator .fixed-table{max-width:100%;table-layout:fixed}
+#permalink-updator .margin-top{margin-top:15px}
+#permalink-updator .help_tooltip{text-decoration:none;color:#959595}
+#permalink-updator .small-select{height:24px;line-height:22px;padding:0 8px 1px;font-size:11px}
+#permalink-updator .lead{font-size:125%}
+#permalink-updator .licence-info{font-weight:bold}
+#permalink-updator p label{font-size:13px;color:#555d66;font-weight:bold}
+#permalink-updator a:focus{box-shadow:none}
+
+#permalink-updator .woocommerce-icon:before{font-family:"WooCommerce";font-style:normal}
+#permalink-updator .woocommerce-cart:before{content:"\e01d"}
+#permalink-updator .woocommerce-logo:before{content:"\e03d"}
+
+#permalink-updator .subsubsub{display:block;width:100%;overflow:hidden;margin-bottom:25px}
+#permalink-updator .subsubsub li:before{content:" | "}
+#permalink-updator .subsubsub li:first-child:before{content:"";color:#aaa}
+#permalink-updator .subsubsub li .dashicons,#permalink-updator .subsubsub li .woocommerce-logo{font-size:100%;line-height:200%;height:auto;width:auto}
+#permalink-updator .single-section{clear:both}
+#permalink-updator .tablenav{margin:15px 0;height:auto}
+#permalink-updator .tablenav.top{margin-top:0}
+#permalink-updator .tablenav .actions{padding:0;overflow:visible}
+#permalink-updator .tablenav #months-filter{margin-left:10px}
+#permalink-updator .search-box{margin-left:1em}
+#permalink-updator th#count a{display:inline-block}
+#permalink-updator .post_permalink a,.post_permalink .dashicons{font-size:13px;color:#aaa;line-height:1.5em;height:auto;width:auto}
+#permalink-updator .post_permalink{margin-top:5px;display:block}
+#permalink-updator .column-count,#permalink-updator .column-post_lang{width:1%}
+#permalink-updator .column-count,#permalink-updator .column-post_lang,#permalink-updator th#count{text-align:right}
+#permalink-updator .extra-info span{white-space:nowrap}
+
+#permalink-updator .info{box-shadow:0 1px 1px 0 rgba(0,0,0,.1);display:block;overflow:hidden;clear:both;font-weight:bold;border-left:4px solid #dc3232;}
+#permalink-updator .alert,#permalink-updator .info{line-height:19px;padding:11px 15px;margin:15px 0}
+#permalink-updator .alert p,#permalink-updator .info p{margin-top:0;line-height:200%}
+#permalink-updator .alert ul,#permalink-updator .alert ol{margin-top:0;margin-bottom:0}
+#permalink-updator .alert p:last-of-type,#permalink-updator .alert li:last-of-type,#permalink-updator .info p:last-of-type{margin-bottom:0}
+#permalink-updator .warning{background:#dc3232}
+#permalink-updator .warning,#permalink-updator .warning a{color:#fff}
+#permalink-updator .info{background:#f9f9f9}
+/*#permalink-updator .section-notes,#permalink-updator .short-pre,#permalink-updator .short-textarea{padding:15px;font-size:13px;margin-top:15px;line-height:20px;background:#e5e5e5;border:1px solid #ccc;color:#555}
+#permalink-updator .section-notes a,#permalink-updator .section-notes h3{color:#111}
+#permalink-updator .section-notes h3,#permalink-updator .section-notes h4{margin-top:0}*/
+#permalink-updator .section-notes h4{font-size:14px}
+#permalink-updator .section-notes code{font-size:11px}
+#permalink-updator .section-notes ol{margin-top:0;margin-bottom:0}
+#permalink-updator .section-notes ol li:last-of-type{margin-bottom:0}
+#permalink-updator .short-pre,#permalink-updator .short-textarea{height:150px;overflow:auto;max-width:100%;display:block}
+#permalink-updator .structure-tags-list{margin-top:15px}
+#permalink-updator .duplicated_uri_alert,.permalink-updator .duplicated_uri_alert{display:block;font-weight:bold;font-size:90%;margin-top:8px;color:#dc3232}
+
+#permalink-updator .checkbox_actions{padding-top:10px;border-top:1px solid #ddd}
+#permalink-updator .extra-links,.permalink-updator-screen-options .extra-links{margin-top:5px;font-size:12px}
+#permalink-updator .extra-links a,.permalink-updator-screen-options .extra-links a{color:#666;display:inline-block;text-decoration:none}
+#permalink-updator .extra-links a:before,.permalink-updator-screen-options .extra-links a:before{content:" | "}
+#permalink-updator .extra-links a:first-child:before,.permalink-updator-screen-options .extra-links a:first-child:before{content:""}
+.permalink-updator-screen-options{margin-bottom:15px}
+#permalink-updator .checkboxes{margin-left:-15px;margin-right:15px;overflow:hidden;display:block}
+#permalink-updator .checkboxes > label{display:inline-block;width:33%;float:left;padding:0 15px;box-sizing:border-box;padding-bottom:5px;overflow:hidden}
+#permalink-updator .checkboxes > label:nth-of-type(3n+1){clear:both}
+#permalink-updator .field-description{font-size:12px}
+#permalink-updator .appended-row td{padding-left:0;padding-right:0}
+#permalink-updator #tools{margin:0 -15px;padding:0 15px 15px}
+#permalink-updator #tools select{min-width:60%}
+#permalink-updator fieldset label{margin-bottom:0 !important}
+
+#permalink-updator .structure-tags-list{display:block;line-height:175%}
+#permalink-updator .structure-tags-list code{}
+
+#permalink-updator .updated-slugs-table .row-title{max-width:400px}
+
+.plugin_license_info_row{transform:translate(0,-1px)}
+
+#permalink-updator .columns-container{overflow:hidden;margin-left:-15px;margin-right:-15px;clear:both;display:block}
+#permalink-updator .columns-container > *{float:left;padding-left:15px;padding-right:15px;box-sizing:border-box;-webkit-box-sizing:border-box;overflow:hidden;display:block}
+#permalink-updator .columns-container span a{color:#aaa}
+#permalink-updator .columns-container .column-1_2,#permalink-updator .columns-container .column-2_4{width:50%}
+#permalink-updator .columns-container .column-1_3{width:33.33%}
+#permalink-updator .columns-container .column-1_3:nth-of-type(3n+1){clear:left}
+#permalink-updator .columns-container .column-2_3{width:66.67%}
+#permalink-updator .columns-container .column-1_4{width:25%}
+#permalink-updator .columns-container .column-3_4{width:75%}
+
+#slugdiv #post_name{width:100%}
+
+#permalink-updator.permalink-updator-edit-uri-box{margin:10px -10px}
+#permalink-updator.permalink-updator-edit-uri-box h2{border-bottom:1px solid #eee}
+#permalink-updator.permalink-updator-edit-uri-box .inside{padding:0 10px 10px 10px;margin-bottom:0}
+#permalink-updator.permalink-updator-edit-uri-box .inside > div{font-size:13px;line-height:1.5;margin:1em 0}
+#permalink-updator.permalink-updator-edit-uri-box .inside > div:last-child,#permalink-updator.permalink-updator-edit-uri-box .inside p:last-child{margin-bottom:0}
+#permalink-updator.permalink-updator-edit-uri-box .strong{display:block;font-weight:bold;margin-bottom:5px}
+#permalink-updator.permalink-updator-edit-uri-box .toggle-indicator:before{content:"\f142";display:inline-block;font:400 20px/1 dashicons}
+#permalink-updator.permalink-updator-edit-uri-box .columns-container{margin-left:-10px!important;margin-right:-10px!important}
+#permalink-updator.permalink-updator-edit-uri-box .columns-container > *{padding-left:10px;padding-right:10px}
+#permalink-updator.permalink-updator-edit-uri-box .close-button{float:right;width:36px;height:36px;padding:0;cursor:pointer;display:block}
+#permalink-updator.permalink-updator-edit-uri-box .close-icon{margin-top:4px;-webkit-border-radius:50%;border-radius:50%;text-indent:-1px;color:#72777c;line-height:36px;display:block;text-align:center}
+#permalink-updator.permalink-updator-edit-uri-box .close-icon:before{content:"\f158";display:inline-block;font:400 20px/1 dashicons;speak:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-decoration:none!important}
+#permalink-updator .default-permalink-row,#permalink-updator .redirects-row{border-top:1px solid #eee;padding-top:15px}
+#permalink-updator .default-permalink-row,#permalink-updator .default-permastruct-row,#permalink-updator .redirects-row{color:#aaa;font-size:90%}
+#permalink-updator .restore-default,#permalink-updator .permastruct-toggle-button a{display:inline-block;width:100%;border-radius:0;color:#959595;text-decoration:none}
+#permalink-updator .restore-default{text-align:right}
+#permalink-updator .widefat,#permalink-updator #redirect-panel-inside,#permalink-updator #redirect-panel-inside table{width:100%!important;max-width:none;min-height:0!important;box-sizing:border-box;height:32px}
+#permalink-updator textarea.widefat,#permalink-updator #redirect-panel-inside table{height:auto}
+#permalink-updator .heading,#permalink-updator .heading a{margin:0;line-height:1.4;font-weight:600;text-decoration:none;color:#777}
+#permalink-updator.permalink-updator-edit-term .permalink-updator-edit-uri-box{display:block!important;margin:0}
+#permalink-updator.permalink-updator-edit-term .permalink-updator-edit-uri-box h2,.permalink-updator.postbox .heading{font-size:14px!important;padding:8px 12px;margin:0;line-height:1.4}
+#permalink-updator.permalink-updator-edit-term .permalink-updator-edit-uri-box .close-button,#permalink-updator.permalink-updator-edit-term #permalink-updator-toggle{display:none}
+#permalink-updator .permalink-updator-duplicate-box table{width:100%;color:#aaa}
+#permalink-updator .permalink-updator-duplicate-box table tr td{border-top:1px solid #eee}
+#permalink-updator .permalink-updator-duplicate-box table tr:first-child td{border-top:0}
+#permalink-updator .permalink-updator-duplicate-box table td{font-size:12px;line-height:1.5em;padding:8px 12px}
+#permalink-updator .permalink-updator-duplicate-box table tr td:first-child{width:60%}
+#permalink-updator .permalink-updator-duplicate-box table tr td:last-child{text-align:right}
+#permalink-updator .permalink-updator-duplicate-box .actions a{text-decoration:none}
+#permalink-updator .permalink-updator-duplicate-box .remove-duplicate-link{color:#a00}
+.permalink-updator.postbox .heading{border-bottom:3px double #eee}
+.permalink-updator.postbox a{color:#444;text-decoration:none;white-space:nowrap}
+
+#permalink-updator .permalink-updator-gutenberg > div{margin-top:15px;}
+#permalink-updator .permalink-updator-gutenberg .default-permalink-row > *{width:100%;float:none}
+#permalink-updator .permalink-updator-gutenberg .restore-default{text-align:left;margin-top:15px}
+#permalink-updator .permalink-updator-gutenberg .redirects-row{padding-top:15px}
+#permalink-updator .permalink-updator-gutenberg .redirects-panel .heading{background:#eee;padding:15px 10px;margin-bottom:-15px;width:100%;display:block;font-size:110%}
+#permalink-updator #redirect-panel-inside, #permalink-updator #redirect-panel-inside p{margin-top:15px}
+#permalink-updator .redirects-panel-description *{font-size:11px}
+
+
+#permalink-updator #redirect-panel-inside{display:none}
+#permalink-updator #redirect-panel-inside,#permalink-updator #redirect-panel-inside p{margin-top:15px;height:auto}
+#permalink-updator #redirect-panel-inside table{margin-bottom:10px;margin-top:-5px}
+#permalink-updator #redirect-panel-inside table td{padding:5px 0;width:100%}
+#permalink-updator #redirect-panel-inside table td a{text-decoration:none;text-align:right}
+#permalink-updator #redirect-panel-inside .single-section{margin-left:-10px;margin-right:-10px;padding:10px;border-top:1px dashed #eee}
+#permalink-updator #redirect-panel-inside .single-section:last-of-type{padding-bottom:0}
+#permalink-updator #redirect-panel-inside .single-section:first-of-type{padding-top:0;border:0}
+#permalink-updator #redirect-panel-inside .single-section > p:first-of-type{margin-top:0}
+.permalink-updator .sample-row{display:none}
+.permalink-updator .redirects-panel-description{margin-bottom:10px}
+.permalink-updator .redirects-panel-description *{font-size:12px}
+
+#permalink-updator-coupon-url > p:last-of-type{font-size:13px}
+
+.tippy-tooltip.tippy-pm-theme{text-align:left;font-size:13px}
+
+#permalink-updator .all-permastruct-container{}
+#permalink-updator .all-permastruct-container > *{margin-bottom:15px}
+#permalink-updator .all-permastruct-container > *:last-child{margin:0}
+#permalink-updator .all-permastruct-container .permastruct-toggle{display:none;padding-bottom:15px;border-bottom:1px dashed #ddd}
+#permalink-updator .all-permastruct-container h4{font-size:14px}
+#permalink-updator .all-permastruct-container p{font-size:13px}
+#permalink-updator .all-permastruct-container p.default-permastruct-row{margin-top:15px}
+#permalink-updator .all-permastruct-container label{font-weight:600;margin-top:15px!important;font-size:13px;margin-bottom:5px!important;display:block;clear:both}
+#permalink-updator .all-permastruct-container .settings-container label{font-weight:400}
+#permalink-updator .permastruct-toggle-button a{font-size:90%;font-weight:bold}
+
+#permalink-updator .words-editor{font-size:90%;height:400px;overflow-y:auto;border:1px solid #ddd;-webkit-box-shadow:inset 0 1px 2px rgba(0,0,0,.07);box-shadow:inset 0 1px 2px rgba(0,0,0,.07);background-color:#fff;color:#32373c;outline:0;-webkit-transition:50ms border-color ease-in-out;transition:50ms border-color ease-in-out;}
+#permalink-updator .words-editor .tag{background:#eee}
+#permalink-updator .words-editor .tag a{color:#000}
+#permalink-updator .stop-words-buttons{width:100%}
+#permalink-updator .stop-words-buttons tr > td:first-child{padding-left:0;width:50%}
+#permalink-updator .stop-words-buttons tr > td:last-child{padding-right:0}
+
+@media only screen and (min-width :992px) {
+	#permalink-updator #permalink-updator-tab-nav .section_debug,#permalink-updator #permalink-updator-tab-nav .section_upgrade,#permalink-updator #permalink-updator-tab-nav .section_support{float:right}
+	#permalink-updator .permastruct-container{display:table;width:100%;table-layout:auto}
+	#permalink-updator .permastruct-container > *{display:table-cell}
+	#permalink-updator .permastruct-container > span:first-child{width:1%;white-space:nowrap}
+	#permalink-updator .permastruct-field{width:100%}
+
+	#permalink-updator .column-item_uri{width:600px;max-width:100%}
+	#permalink-updator .column-item_uri input{width:100%}
+}
+@media only screen and (max-width :782px) {
+	#permalink-updator .columns-container .column-1_2,#permalink-updator .columns-container .column-1_3,#permalink-updator .columns-container .column-2_3{width:100%}
+	#permalink-updator .permalink-updator-duplicate-box table tr td:first-child{width:40%}
+}
